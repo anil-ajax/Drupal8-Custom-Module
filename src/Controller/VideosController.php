@@ -1,8 +1,8 @@
 <?php
 /**
  * @file
- * @author Anil Kumar
- * Contains \Drupal\example\Controller\ExampleController.
+ * @author Anil Kumar - https://github.com/anil-ajax
+ * Contains \Drupal\videos\Controller\ExampleController.
  */
 namespace Drupal\videos\Controller;
 /**
