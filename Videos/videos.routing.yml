@@ -1,0 +1,7 @@
+videos.videos:
+  path: '/videos/list'
+  defaults:
+    _controller: '\Drupal\videos\Controller\VideosController::videos'
+    _title: 'Drupal 8 videos Controller'
+  requirements: 
+    _permission: 'access content'
