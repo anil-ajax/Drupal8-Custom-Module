@@ -2,7 +2,7 @@
 /**
  * @file
  * @author Anil Kumar - https://github.com/anil-ajax
- * Contains \Drupal\videos\Controller\ExampleController.
+ * Contains \Drupal\videos\Controller\VideosController.
  */
 namespace Drupal\videos\Controller;
 /**
